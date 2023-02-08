@@ -1,7 +1,9 @@
-https://forum.cfx.re/uploads/default/original/4X/d/1/4/d1430e5499180e35160126bfd218ab84a09a3899.gif
+
 
 <h1 align="center">Welcome To, CodeStudio</h1>
 <h3 align="center">A passionate FiveM developer with 5+ Years Experience</h3>
+
+<img align="right" alt="Coding" width="400" src="https://forum.cfx.re/uploads/default/original/4X/d/1/4/d1430e5499180e35160126bfd218ab84a09a3899.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhfw1&label=Profile%20views&color=080808&style=flat" alt="hhfw1" /> </p>
 
