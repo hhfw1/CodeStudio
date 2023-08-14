@@ -16,7 +16,7 @@
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://codestudio.tebex.io/" target="_blank"><img alt="CodeStudio" src="https://img.shields.io/badge/CodeStudio-ffd966?style=for-the-badge&logo=Microsoft-edge&logoColor=black" width=125 height=30></a>
-  <a href="https://discord.gg/ESwSKregtt" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width=125 height=30></a>
+  <a href="https://discord.gg/62jqEKz8Sb" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width=125 height=30></a>
   <a href="https://github.com/hhfw1" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width=125 height=30></a>
   <a href="https://bit.ly/3BMJQlk" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width=125 height=30></a>
 </p>
